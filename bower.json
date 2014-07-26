@@ -1,0 +1,26 @@
+{
+  "name": "event.js",
+  "main": "event.js",
+  "version": "0.1.0",
+  "authors": [
+    "vallabh joshi <vallabh.joshi@gmail.com>"
+  ],
+  "description": "A module that can be mixed in to *any object* in order to provide it with custom events. You may bind with `on` or remove with `off` callback functions to an event; `trigger`-ing an event fires all callbacks in succession.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "object",
+    "events",
+    "event"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
