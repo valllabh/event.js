@@ -1,6 +1,6 @@
 {
   "name": "event.js",
-  "main": "event.js",
+  "main": "dist/event.min.js",
   "version": "0.1.0",
   "authors": [
     "vallabh joshi <vallabh.joshi@gmail.com>"
